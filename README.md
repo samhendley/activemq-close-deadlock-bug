@@ -1,3 +1,8 @@
+## Update
+
+This issue has been addressed by the activemq team with a bug fix and workaround.
+
+https://issues.apache.org/jira/browse/AMQ-4361
 
 ## Overview
 
